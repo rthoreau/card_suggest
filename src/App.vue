@@ -12,7 +12,7 @@
             </div>
           </div>
         </header>
-        <p class="presentation">Salut !<br>Ici tu peux créer des cartes pour compléter le deck qu'on utilise pour les parties de Limite-Limite organisée sur Entre-Geeks !</p>
+        <p class="presentation">Salut !<br>Ici tu peux créer des cartes pour compléter le deck qu'on utilise pour les parties de Limite-Limite organisées sur Entre-Geeks !</p>
         <p class="instruction">Ton pseudo : <span class="comment">(tu n'es pas obligé(e) de le donner) </span><br><input type="text" v-model="author" class="author"></p>
         <p class="instruction">
           Type :
