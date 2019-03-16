@@ -173,7 +173,6 @@ export default {
       var card = this.cards.find(function (c) {
         return c.id === id;
       });
-      console.log(card)
       card.type = card.type === 'question' ? 'answer' : 'question';
       this.save(id, true);
     },
